@@ -67,3 +67,5 @@ Below is a list of all core features available in v2.0.0:
 🛡 Disclaimer:
 1. MacroHub is intended for educational and personal use only.
 2. Use at your own risk. The author is not responsible for account penalties or game enforcement actions.
+
+© MacroHub – All Rights Reserved
