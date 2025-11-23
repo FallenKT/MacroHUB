@@ -61,5 +61,5 @@ Below is a list of all core features available in v2.0.0:
 
 Compatibility:
 1. OS: Windows: 10 or 11
-2. CPU: Optimized for low to mid-end systems
+2. CPU: Optimized for low to high-end systems
 3. Minecraft Version: Any client that supports standard key input
