@@ -6,7 +6,8 @@ Features:
 MacroHub provides a full suite of automation tools designed for stable, efficient, and customizable Skyblock farming.
 Below is a list of all core features available in v2.0.0:
 
-Movement & Control
+Movement & Control:
+
 • Automated Farming Movement: Start and stop the automated A/D (left-right) movement loop with a single key.
 
 • Adjustable A/D Hold Time: Customize how long the macro holds each direction before switching.
@@ -16,8 +17,11 @@ Movement & Control
 • Panic Key (Release All): Immediate emergency stop that releases all keys at once.
 
 Auto-Warp System
+
 • Auto-Warp Activation: Automatically triggers warps on a timed interval to reset your farming position.
+
 • Warp Interval Control: Adjust warp timing:
+
 • Manual Warp Trigger: Quick execution of /warp garden for repositioning.
 
 Safety & Stability
