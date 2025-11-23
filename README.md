@@ -59,7 +59,11 @@ Below is a list of all core features available in v2.0.0:
 
 • Reworked Movement Logic
 
-Compatibility:
+**Compatibility:**
 1. OS: Windows: 10 or 11
 2. CPU: Optimized for low to high-end systems
 3. Minecraft Version: Any client that supports standard key input
+
+🛡 Disclaimer:
+1. MacroHub is intended for educational and personal use only.
+2. Use at your own risk. The author is not responsible for account penalties or game enforcement actions.
