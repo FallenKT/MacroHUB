@@ -25,7 +25,9 @@ Auto-Warp System
 • Manual Warp Trigger: Quick execution of /warp garden for repositioning.
 
 Safety & Stability
+
 • Auto-Stop System: Prevents macro misbehavior during lag spikes or when the player gets stuck.
+
 • Instant Stop Controls: Quickly stop movement or space-holding at any time.
 
 • Clear Status Indicators:
@@ -38,6 +40,7 @@ Safety & Stability
 - Warp readiness
 
 Overlay & Interface
+
 • Toggle Overlay: Show or hide the on-screen performance panel.
 
 • View Mode Toggle: Switch between full and compact overlay modes.
@@ -45,10 +48,12 @@ Overlay & Interface
 • Clean Visual Feedback: Real-time updates on macro behavior and timers.
 
 License System
+
 • License Validation: New backend validation ensures secure access and prevents unauthorized use.
 
 • Time Remaining Display
 
 Optimized Performance
+
 • Reduced CPU Usage
 • Reworked Movement Logic
