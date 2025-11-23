@@ -6,14 +6,14 @@ This guide covers the most common issues, fixes, and tips for users running the 
 🟢 First-Time User Tips
 
 ✔ 1. Run the EXE as Administrator
-Right-click → **Run as administrator**  
+Right-click → Run as administrator  
 This ensures the macro can send key inputs correctly.
 
 ✔ 2. Create an account and use it to login to the macro.
 (also enter your license key ofcourse)
 
 ✔ 3. Make sure Minecraft is the active window
-MacroHub only sends input to the **focused window**.  
+MacroHub only sends input to the focused window.  
 If you click Discord, Chrome, etc — the macro will stop moving.
 
 ✔ 4. Start with small A/D hold times
@@ -28,14 +28,13 @@ Use the same:
 for best performance.
 
 
-
 🟠 Common Issues & Fixes
 
 ❗ Macro doesn’t move at all
 Fixes
 - Make sure Minecraft is selected  
 - Run the EXE as administrator  
-- Check if your “Move Left/Right” keys are still **A** and **D**  
+- Check if your “Move Left/Right” keys are still A and D  
 - Make sure no other software is blocking inputs (e.g. overlays, anti-cheats, macro tools)
 
 ---
@@ -121,7 +120,7 @@ Fixes
 If something feels wrong:
 
 1. Press F5 (Panic)  
-2. `/warp garden` manually  
+2. /warp garden manually  
 3. Restart movement with F6  
 
 Fixes 90% of issues instantly.
@@ -138,3 +137,5 @@ and include:
 ---
 
 Enjoy smart, stable, optimized farming with MacroHub!
+
+© MacroHub – All Rights Reserved
