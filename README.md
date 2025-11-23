@@ -8,8 +8,11 @@ Below is a list of all core features available in v2.0.0:
 
 Movement & Control
 • Automated Farming Movement: Start and stop the automated A/D (left-right) movement loop with a single key.
+
 • Adjustable A/D Hold Time: Customize how long the macro holds each direction before switching.
+
 • One-Key Space Hold: Automatically holds the "Destroy" key.
+
 • Panic Key (Release All): Immediate emergency stop that releases all keys at once.
 
 Auto-Warp System
